@@ -1,0 +1,18 @@
+body {
+  background-color: aqua;
+}
+
+.description {
+  size: 100px;
+  color: blue;
+}
+
+.button {
+  margin: 100px;
+  border: 3px solid white;
+  border-radius: 30px;
+  padding: 20px 40px;
+  background-color: coral;
+  font-size: 16px;
+  color: white;
+}
